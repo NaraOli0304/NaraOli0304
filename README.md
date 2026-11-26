@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-cover.svg" width="100%" alt="Nara Oliveira. Microsoft 365 and Azure Engineer. Identity, endpoint management, and automation.">
+  <img src="assets/portfolio-cover.svg" width="100%" alt="Nara Oliveira. Microsoft 365 and Azure Engineer. Identity, endpoint management, and automation.">
 </p>
 
 
