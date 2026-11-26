@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="365" viewBox="0 0 1120 365" role="img" aria-labelledby="title">
+<title id="title">Nara Oliveira — Microsoft 365 &amp; Azure Engineer</title>
+<defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#d8ffce" stroke-opacity=".10"/></pattern><linearGradient id="bg"><stop stop-color="#101b17"/><stop offset="1" stop-color="#17332a"/></linearGradient></defs>
+<rect width="1120" height="365" rx="20" fill="url(#bg)"/>
+<path d="M699 0H1100Q1120 0 1120 20V345Q1120 365 1100 365H699Z" fill="url(#grid)"/>
+<g fill="none" stroke="#aee89a" stroke-width="1.5"><circle cx="896" cy="179" r="112" opacity=".6"/><ellipse cx="896" cy="179" rx="55" ry="112" transform="rotate(39 896 179)" opacity=".8"/><ellipse cx="896" cy="179" rx="55" ry="112" transform="rotate(-39 896 179)" opacity=".8"/><path d="M736 179H1056M896 47V311" stroke-dasharray="4 7" opacity=".48"/><circle cx="896" cy="179" r="26"/></g>
+<g fill="#c9f5a3"><circle cx="896" cy="179" r="8"/><circle cx="805" cy="115" r="5"/><circle cx="987" cy="244" r="5"/><circle cx="896" cy="67" r="4"/></g>
+<g font-family="Arial, sans-serif"><text x="64" y="91" fill="#c9f5a3" font-size="18" font-weight="700" letter-spacing="3">MICROSOFT 365 &amp; AZURE ENGINEER</text><text x="60" y="188" fill="#f3f8ed" font-size="82" font-weight="700" letter-spacing="-3">Nara Oliveira</text><path d="M64 229H632" stroke="#769585"/><text x="64" y="281" fill="#dbe8da" font-size="26">Identity · Endpoint management · Automation</text></g>
+</svg>
