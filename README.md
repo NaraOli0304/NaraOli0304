@@ -1,7 +1,6 @@
-<h1 align="center">Nara Oliveira</h1>
-
-<p align="center"><strong>Microsoft 365 &amp; Azure Engineer</strong><br>
-Identity · Endpoint management · Cloud automation</p>
+<p align="center">
+  <img src="assets/profile-cover.svg" width="100%" alt="Nara Oliveira. Microsoft 365 and Azure Engineer. Identity, endpoint management, and automation.">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nara-oliveira-16aa03204/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nara%20Oliveira-0969DA?style=for-the-badge"></a>
