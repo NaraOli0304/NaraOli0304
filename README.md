@@ -2,29 +2,35 @@
   <img src="assets/profile-cover.svg" width="100%" alt="Nara Oliveira. Microsoft 365 and Azure Engineer. Identity, endpoint management, and automation.">
 </p>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nara-oliveira-16aa03204/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nara%20Oliveira-0969DA?style=for-the-badge"></a>
-  <a href="https://github.com/NaraOli0304/ChangePack365"><img alt="Explore ChangePack365" src="https://img.shields.io/badge/Featured%20project-ChangePack365-067A70?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/nara-oliveira-16aa03204/">LinkedIn</a> ·
+  <a href="https://github.com/NaraOli0304/ChangePack365">Explore ChangePack365</a>
 </p>
 
----
+## ChangePack365
 
-## Featured project
+A PowerShell toolkit for collecting and verifying evidence of Microsoft 365 changes. The experimental MVP records the intended change, captures before-and-after state, and exports a privacy-safe report backed by a hash-chained ledger.
 
-> **[ChangePack365](https://github.com/NaraOli0304/ChangePack365)**  
-> A PowerShell MVP for documenting Microsoft 365 changes with before-and-after evidence, a hash-chained ledger, and privacy-safe reports.
->
-> [![ChangePack365 CI](https://github.com/NaraOli0304/ChangePack365/actions/workflows/test.yml/badge.svg)](https://github.com/NaraOli0304/ChangePack365/actions/workflows/test.yml)
+```mermaid
+flowchart TD
+    A["Confirm tenant and declare intent"] --> B["Capture before and after"]
+    B --> C{"Classify the changes"}
+    C --> D["Expected changes"]
+    C --> E["Unexpected or forbidden changes"]
+```
+
+[Source and documentation](https://github.com/NaraOli0304/ChangePack365) · [CI runs](https://github.com/NaraOli0304/ChangePack365/actions/workflows/test.yml)
 
 ## More projects
 
 | Project | What it demonstrates |
 | :--- | :--- |
+| **[NaraWorkstation](https://github.com/NaraOli0304/NaraWorkstation)** | Reproducible Windows 11 setup with chezmoi, CI checks for sensitive data, and a tested Windows Sandbox restore. |
 | **[NaraSnippets](https://github.com/NaraOli0304/NaraSnippets)** | Espanso shortcuts for recurring PowerShell, GitHub, and Microsoft 365 workflows. |
-| **[NaraWorkstation](https://github.com/NaraOli0304/NaraWorkstation)** | Reproducible Windows 11 configuration with chezmoi, CI checks for sensitive data, and a documented Windows Sandbox restore. |
 
 ## Technical focus
 
-| Identity &amp; access | Endpoint &amp; collaboration | Security &amp; automation |
-| :--- | :--- | :--- |
-| Microsoft Entra ID, Conditional Access, MFA | Intune, Exchange Online, SharePoint, Teams | Purview, PowerShell, Microsoft Graph, GitHub Actions |
+**Identity** · Entra ID, Conditional Access, MFA  
+**Endpoint and collaboration** · Intune, Exchange Online, SharePoint, Teams  
+**Security and automation** · Purview, PowerShell, Microsoft Graph, GitHub Actions
